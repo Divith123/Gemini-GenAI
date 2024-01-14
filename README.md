@@ -37,7 +37,7 @@ Gemini Pro AI, developed by Google AI and launched in December 2023, is a cuttin
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/gemini-pro.git
+    git clone https://github.com/Divith123/gemini-pro.git
     cd gemini-pro
     ```
 
