@@ -5,27 +5,6 @@
 
 Gemini Pro AI, developed by Google AI and launched in December 2023, is a cutting-edge large language model (LLM) known for its versatility and exceptional performance. This repository combines the power of Gemini Pro AI with a Telegram bot, offering a seamless and interactive experience for a variety of tasks.
 
-## Key Features:
-
-- **Text Generation:**
-  - Generate creative text formats, including poems, code, scripts, musical pieces, emails, and more.
-  - Translate languages, write creative content, and provide informative answers to questions.
-
-- **Semantic Retrieval:**
-  - Search and retrieve relevant information from a vast dataset of text and code.
-
-- **Function Calling:**
-  - Directly call and execute functions within the model for increased interactivity.
-
-- **Embeddings:**
-  - Generate numerical representations of text for tasks like similarity search and clustering.
-
-- **Custom Knowledge Grounding:**
-  - Inject domain-specific knowledge into the model for improved performance on specific tasks.
-
-- **Chat Functionality:**
-  - Build chatbots and other conversational AI applications using Gemini Pro.
-
 ## Technical Specifications:
 
 - **Three Versions Available:**
