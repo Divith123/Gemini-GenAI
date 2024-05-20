@@ -1,5 +1,5 @@
 
-# Gemini Pro AI with Telegram Integration
+# Zara AI with Telegram Integration
 
 ## Overview:
 
