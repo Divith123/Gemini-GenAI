@@ -3,7 +3,7 @@
 
 ## Overview:
 
-Gemini Pro AI, developed by Google AI and launched in December 2023, is a cutting-edge large language model (LLM) known for its versatility and exceptional performance. This repository combines the power of Gemini Pro AI with a Telegram bot, offering a seamless and interactive experience for a variety of tasks.
+Gemini Pro AI, developed by Google and launched in December 2023, is a cutting-edge large language model (LLM) known for its versatility and exceptional performance. This repository combines the power of Gemini Pro AI with a Telegram bot, offering a seamless and interactive experience for a variety of tasks.
 
 ## Technical Specifications:
 
